@@ -1,0 +1,25 @@
+To: careers@neuronlabs.ai
+Subject: Internship Enquiry | First-Year CSE (Core) | VIT Bhopal
+Date: 31st March 2026
+
+Dear Hiring Team,
+
+I am Anshul, a first-year B.Tech student at VIT Bhopal. I’m reaching out because I’ve been following NeuronLabs’ recent work on lightweight transformer architectures—exactly the niche I’m passionate about.
+
+I recognize that being a first-year student is unconventional for research, but I am not waiting for my final year to build. My current focus includes:
+
+    Technical Foundations: Completing Andrew Ng’s Machine Learning Specialization.
+
+    Open Source: Documenting my progress and projects on GitHub (github.com/AnsgenixD).
+
+    Problem Solving: Maintaining a consistent practice streak on HackerRank.
+
+I am looking for a summer internship to contribute to your team's goals, whether through data pipelines, testing, or research assistance. I am open to remote, part-time, or unpaid arrangements to gain hands-on experience in a professional research environment.
+
+My resume is attached. I would welcome any initial task or a short call to demonstrate my aptitude.
+
+Thank you for your time and consideration.
+
+Regards,
+
+Anshul
