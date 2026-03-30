@@ -1,4 +1,4 @@
-###Task 1 – Digital Literacy Infographic
+###Task 1 – Digital Literacy Infographic###
 
 *Tool used - Canva*
 
