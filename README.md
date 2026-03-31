@@ -1,7 +1,13 @@
 # Digital Literacy Project 💻📚
 
-> [A brief, 1-2 sentence description of what the Digital Literacy Project is, what problem it solves, and who it's for. e.g., "A web application designed to help older adults build essential computing skills through interactive modules."]
+> This repository contains my Digital Literacy Portfolio completed as part of the CSE0001 course at VIT Bhopal University. The project is based on the scenario of being a Student Digital Ambassador — helping peers navigate the digital world responsibly.
 
+The portfolio covers five modules:
+- **Task 1** – Digital Literacy Awareness Infographic
+- **Task 2** – Student Digital Portfolio Setup
+- **Task 3** – Coding and Collaboration Platforms
+- **Task 4** – Professional Email and Etiquette Guide
+- **Task 5** – Cybercrime Awareness Case Study
 ---
 
 
@@ -14,14 +20,22 @@ DigitalLiteracyProject/
 ├── task-1-presentation/            # Contains task-1
 │   ├── Blue and Orange Modern Tech Product Development Roadmap Infographic(1).png            # Infographic
 │   └── description.md             # description.md
-├── task-2-portfolio/            # [Short description, e.g., Image and media assets]
-│   ├── logo.png              # [Project logo]
-│   └── background.jpg        # [Hero section background]
-├── modules/                  # [Short description, e.g., Educational modules]
-│   ├── module1.js            # [Logic for Module 1]
-│   └── module2.js            # [Logic for Module 2]
-├── .gitignore                # [Files ignored by Git]
-├── package.json              # [Project dependencies and scripts]
+├── task-2-portfolio/            # [accounts on various websites]
+│   ├── Githubacc.jpg         
+│   └── Kaggleacc.jpg        
+│   └──Researchgateacc.jpg
+├── task-3-platforms/                  # [Googleform and response from HackerRank]
+│   ├──Googleform-1.jpg        
+│   └── Googleform-2.jpg            
+│   └── Googleform-responses.jpg
+│   └── Screenshot 2026-03-30 at 9.18.53 PM.jpg
+├── task-4-email-etiquette/                  # [Email etiquettes]
+│   ├──email-1.txt
+│   └── email-2.txt
+│   └── social-media-checklist.md
+├── task-5-cybercrime/
+│   ├──casestudy.md
+│   └──prevention-checklist.md
 └── README.md                 # [This file]
 ```
 
